@@ -1,0 +1,24 @@
+# Phase 1 – Brainstorming & Ideation
+
+## Project Title
+Implement Client Script & UI Policy (Incident)
+
+## Introduction
+This project focuses on implementing Client Scripts and UI Policies in ServiceNow for the Incident Management module.
+
+## Problem Statement
+Incident forms may contain unnecessary fields, incorrect field values, or fields that should be displayed or made mandatory based on specific conditions.
+
+## Proposed Solution
+Client Scripts and UI Policies are used to control the behavior of Incident form fields dynamically.
+
+## Objectives
+- Implement Client Scripts in the Incident table.
+- Implement UI Policies for Incident forms.
+- Make fields mandatory when required.
+- Show or hide fields based on conditions.
+- Control field behavior dynamically.
+- Improve the Incident form user experience.
+
+## Expected Outcome
+The Incident form should dynamically respond to user actions and conditions using Client Scripts and UI Policies.
