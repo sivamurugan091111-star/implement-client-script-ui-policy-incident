@@ -1,0 +1,32 @@
+# Phase 2 – Requirement Analysis
+
+## Functional Requirements
+
+1. The system should allow users to create and update Incidents.
+2. Client Scripts should execute on the Incident form.
+3. UI Policies should control field visibility and mandatory status.
+4. Fields should change dynamically based on selected values.
+5. The system should validate user input.
+
+## Non-Functional Requirements
+
+- The solution should be easy to use.
+- The configuration should be reliable.
+- The form should respond quickly.
+- The implementation should be maintainable.
+
+## Software Requirements
+
+- ServiceNow Instance
+- Web Browser
+- Internet Connection
+
+## Hardware Requirements
+
+- Computer/Laptop
+- Minimum 4 GB RAM
+- Stable Internet Connection
+
+## Scope
+
+The project is limited to implementing Client Scripts and UI Policies on the ServiceNow Incident form.
