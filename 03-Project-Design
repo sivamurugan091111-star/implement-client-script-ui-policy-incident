@@ -1,0 +1,39 @@
+# Phase 3 – Project Design
+
+## System Design
+
+The project uses the ServiceNow Incident Management module.
+
+## Main Components
+
+1. Incident Form
+2. Client Script
+3. UI Policy
+4. UI Policy Action
+5. User Input
+
+## Workflow
+
+User opens Incident Form
+        ↓
+User enters/selects Incident details
+        ↓
+Client Script / UI Policy checks conditions
+        ↓
+Field behavior changes dynamically
+        ↓
+User submits Incident
+        ↓
+Incident is created/updated
+
+## Client Script
+
+Client Scripts are used to execute JavaScript on the client side of a ServiceNow form.
+
+## UI Policy
+
+UI Policies are used to dynamically control form fields without writing complex JavaScript.
+
+## Design Goal
+
+The design provides a simple and dynamic Incident form experience.
