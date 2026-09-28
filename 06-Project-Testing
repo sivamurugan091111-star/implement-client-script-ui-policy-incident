@@ -1,0 +1,25 @@
+# Phase 6 – Project Testing
+
+## Testing Objective
+
+The objective of testing is to verify that the Client Script and UI Policy work correctly on the Incident form.
+
+## Test Cases
+
+| Test Case | Expected Result | Status |
+|---|---|---|
+| Open Incident form | Form opens successfully | Pass |
+| Select required condition | Field behavior changes | Pass |
+| UI Policy condition is true | Configured field action is applied | Pass |
+| UI Policy condition is false | Normal field behavior is maintained | Pass |
+| Save Incident | Incident is saved successfully | Pass |
+
+## Testing Result
+
+The configured Client Script and UI Policy were tested on the Incident form.
+
+The required field behavior was successfully applied according to the configured conditions.
+
+## Conclusion
+
+The project configuration works as expected and satisfies the defined requirements.
