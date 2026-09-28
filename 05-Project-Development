@@ -1,0 +1,43 @@
+# Phase 5 – Project Development
+
+## Development Platform
+
+ServiceNow – Incident Management
+
+## Implementation
+
+### 1. Incident Table
+
+The project is implemented on the Incident table.
+
+### 2. Client Script
+
+A Client Script is created to control Incident form behavior dynamically based on user actions or field values.
+
+### 3. UI Policy
+
+A UI Policy is created to control the behavior of Incident form fields based on specified conditions.
+
+### 4. UI Policy Action
+
+UI Policy Actions are configured to:
+
+- Make fields mandatory.
+- Make fields visible.
+- Make fields read-only when required.
+
+## Development Process
+
+1. Open ServiceNow.
+2. Navigate to the Incident module.
+3. Create/configure the required Client Script.
+4. Configure the required conditions.
+5. Create a UI Policy.
+6. Configure the UI Policy condition.
+7. Add UI Policy Actions.
+8. Save the configurations.
+9. Test the Incident form.
+
+## Expected Result
+
+The Incident form should automatically change field behavior according to the configured Client Script and UI Policy conditions.
