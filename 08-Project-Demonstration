@@ -1,0 +1,34 @@
+# Phase 8 – Project Demonstration
+
+## Project Title
+
+Implement Client Script & UI Policy (Incident)
+
+## Demonstration Contents
+
+The project demonstration video includes:
+
+1. Introduction of the project.
+2. Project purpose.
+3. Project objectives.
+4. ServiceNow Incident module.
+5. Client Script configuration.
+6. UI Policy configuration.
+7. UI Policy Actions.
+8. Execution of the Incident form.
+9. Testing of the configured conditions.
+10. Final output.
+
+## Demo Video
+
+Google Drive Link:
+
+PASTE YOUR GOOGLE DRIVE VIDEO LINK HERE
+
+## Demonstration Result
+
+The demonstration shows the working of the Client Script and UI Policy on the ServiceNow Incident form.
+
+## Final Output
+
+The Incident form dynamically changes field behavior based on the configured conditions.
